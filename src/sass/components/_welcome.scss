@@ -1,0 +1,25 @@
+.starfeeder {
+	margin: 15% auto 0;
+	width: 492px;
+	height: 500px;
+	text-align: center;
+
+	h2 {
+		font-size: 1.5em;
+		margin-bottom: 1em;
+		font-weight: 700;
+		color: #666;
+	}
+
+	p {
+		margin-bottom: 14px;
+	}
+
+	a {
+		color: $blue;
+		cursor: pointer;
+		&:hover {
+			color: lighten($blue, 10%);
+		}
+	}
+}

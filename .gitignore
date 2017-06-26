@@ -1,0 +1,13 @@
+# Folders
+/starfeeder
+/node_modules
+/bower_components
+
+# Files
+.DS_Store
+.env
+.sass-cache/
+Thumbs.db
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
